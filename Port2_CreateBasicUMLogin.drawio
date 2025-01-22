@@ -5,19 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oX0Et_s4n5gMPabf2sp8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-344" y="231" width="1086" height="471" as="geometry" />
+          <mxGeometry x="-341" y="219" width="1086" height="471" as="geometry" />
         </mxCell>
         <mxCell id="oX0Et_s4n5gMPabf2sp8-2" value="Enter Credentials" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-297" y="567" width="216" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oX0Et_s4n5gMPabf2sp8-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oX0Et_s4n5gMPabf2sp8-3" value="Validate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-25" y="567" width="216" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oX0Et_s4n5gMPabf2sp8-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oX0Et_s4n5gMPabf2sp8-4" value="Login Response" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="569" width="216" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oX0Et_s4n5gMPabf2sp8-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oX0Et_s4n5gMPabf2sp8-5" value="Reset Password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="567" width="216" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oX0Et_s4n5gMPabf2sp8-6" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="566" y="288" width="112" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="oX0Et_s4n5gMPabf2sp8-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="37" y="288" width="112" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
